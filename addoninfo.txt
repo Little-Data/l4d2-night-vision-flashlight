@@ -1,0 +1,8 @@
+AddonInfo
+{
+	addonSteamAppID 550
+	addonTitle	"night vision flashlight"
+	addonAuthor	"kele464,little-data"
+	addonversion "2.0"
+	addonDescription "Tired of fumbling in the dark?"
+}

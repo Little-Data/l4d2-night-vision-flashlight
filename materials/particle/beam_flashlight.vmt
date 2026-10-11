@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "particle/beam_flashlight"
+	"$no_draw" 1
+}
