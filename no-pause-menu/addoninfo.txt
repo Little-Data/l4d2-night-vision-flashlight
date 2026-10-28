@@ -1,0 +1,8 @@
+AddonInfo
+{
+	addonSteamAppID 550
+	addonTitle	"night vision flashlight (no menu)"
+	addonAuthor	"kele464,little-data"
+	addonversion "2.0-nomenu"
+	addonDescription "Tired of fumbling in the dark? Fixed settings, no pause-menu options."
+}

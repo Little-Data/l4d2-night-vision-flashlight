@@ -1,5 +1,7 @@
 # l4d2-night-vision-flashlight
 
+![](addonimage.jpg)
+
 将手电筒变为夜视仪（无滤镜）
 
 Turn a flashlight into a night vision device (no filter)
@@ -33,3 +35,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=3298975358
 将文件解压
 
 将 `vpk` 文件放入 `<Left 4 Dead 2游戏目录>\left4dead2\addons` 中
+
+# 目录说明
+
+除了 `no-pause-menu` 文件夹为不带暂停菜单选项版本的目录，其余文件为 vpk 内容
