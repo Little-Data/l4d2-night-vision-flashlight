@@ -30,9 +30,21 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=3298975358
 
 # 下载使用
 
+1. 通过 Steam 创意工坊
+
+注意两个版本不要同时订阅！！！选其中一个订阅就行
+
+[夜视手电（无菜单项）](https://steamcommunity.com/sharedfiles/filedetails/?id=3829189277)
+
+[夜视手电](https://steamcommunity.com/sharedfiles/filedetails/?id=3829196090)
+
+2. 下载 `vpk` 文件
+
+两个版本选其中一个下载就行
+
 进入 [releases](https://github.com/Little-Data/l4d2-night-vision-flashlight/releases) 页面
 
-将文件解压
+将文件解压（如果是压缩包的话）
 
 将 `vpk` 文件放入 `<Left 4 Dead 2游戏目录>\left4dead2\addons` 中
 
