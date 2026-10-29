@@ -1,5 +1,7 @@
 # night vision flashlight (no menu)
 
+![](addonimage.jpg)
+
 将手电筒变为夜视仪（无滤镜），不带暂停菜单选项的版本。
 
 Turn a flashlight into a night vision device (no filter), without the pause-menu options.
